@@ -1,0 +1,3 @@
+﻿  UnitTest11.4.cpp
+D:\visual studio labs\lab11.4\Source.cpp(107,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  UnitTest11.4.vcxproj -> D:\visual studio labs\lab11.4\x64\Debug\UnitTest11.4.dll
